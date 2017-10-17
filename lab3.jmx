@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="3.2" jmeter="3.3 r1808647">
+  <hashTree>
+    <ConstantThroughputTimer guiclass="TestBeanGUI" testclass="ConstantThroughputTimer" testname="Constant Throughput Timer" enabled="true">
+      <intProp name="calcMode">4</intProp>
+      <doubleProp>
+        <name>throughput</name>
+        <value>15.0</value>
+        <savedValue>0.0</savedValue>
+      </doubleProp>
+    </ConstantThroughputTimer>
+    <hashTree/>
+  </hashTree>
+</jmeterTestPlan>
