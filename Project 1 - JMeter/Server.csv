@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1518140435394,792,HTTP Request name,200,OK,Thread Group 1-1,text,true, SMOKE_TEST_PASSED,259809,609,2,2,158,0,140
+1518140436012,686,HTTP Request name,200,OK,Thread Group 1-2,text,true, SMOKE_TEST_PASSED,259693,609,3,3,86,0,47
+1518140436617,617,HTTP Request name,200,OK,Thread Group 1-3,text,true, SMOKE_TEST_PASSED,259394,609,4,4,88,0,37
+1518140437242,542,HTTP Request name,200,OK,Thread Group 1-4,text,true, SMOKE_TEST_PASSED,259779,609,4,4,101,0,76
+1518140437866,531,HTTP Request name,200,OK,Thread Group 1-5,text,true, SMOKE_TEST_PASSED,259830,609,5,5,54,0,32
+1518140442552,218,HTTP Request logout,200,OK,Thread Group 1-1,text,true,,10226,358,5,5,53,0,36
+1518140450645,303,HTTP Request logout,200,OK,Thread Group 1-2,text,true,,10226,358,5,5,94,0,51
+1518140458666,195,HTTP Request logout,200,OK,Thread Group 1-3,text,true,,10226,358,5,5,47,0,28
+1518140462805,185,HTTP Request logout,200,OK,Thread Group 1-4,text,true,,10226,358,5,5,46,0,28
+1518140470820,183,HTTP Request logout,200,OK,Thread Group 1-5,text,true,,10226,358,5,5,51,0,35
+1518140475155,409,HTTP Request check randomVariable,200,OK,Thread Group 1-1,text,true, null -> Ta wartosc nie wystepuje na stronie. ,158618,466,5,5,69,0,42
+1518140479080,454,HTTP Request check randomVariable,200,OK,Thread Group 1-2,text,true, null -> Ta wartosc nie wystepuje na stronie. ,158510,466,4,4,68,0,41
+1518140483188,455,HTTP Request check randomVariable,200,OK,Thread Group 1-3,text,true, null -> Ta wartosc nie wystepuje na stronie. ,158659,466,3,3,71,0,41
+1518140487199,425,HTTP Request check randomVariable,200,OK,Thread Group 1-4,text,true, null -> Ta wartosc nie wystepuje na stronie. ,158595,466,2,2,71,0,42
+1518140491198,465,HTTP Request check randomVariable,200,OK,Thread Group 1-5,text,true, null -> Ta wartosc nie wystepuje na stronie. ,158668,466,1,1,67,0,41
